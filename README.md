@@ -56,7 +56,7 @@ Módulos para gestión de contratos, salud ocupacional y documentación legal. T
 
 | Empresa | Rol | Período |
 |---|---|---|
-| Empresoft Peru S.A.C. | Practicante de Desarrollo de Software | Ene. 2026 – Jun. 2025 |
+| Empresoft Peru S.A.C. | Practicante de Desarrollo de Software | Ene. 2026 – Jun. 2026 |
 | VAFTEC PERU S.A.C. | Practicante Frontend (React JS) | Feb. 2025 – Jun. 2025 |
 
 ---
