@@ -1,6 +1,6 @@
 # Hola, soy Diego Herrera 👋
 
-**Desarrollador Fullstack · Lima, Perú 🇵🇪**
+**Desarrollador de Software · Lima, Perú 🇵🇪**
 
 🟢 Disponible para proyectos y oportunidades
 
@@ -20,19 +20,23 @@ Desarrollador de software con enfoque en el stack **Next.js / TypeScript**, espe
 
 **Backend & Bases de datos**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 **DevOps & Herramientas**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+**Otros**
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=flat&logo=dotnet&logoColor=white)
 
 ---
 
@@ -46,9 +50,23 @@ Sistema punto de venta con gestión dinámica de mesas en tiempo real usando Can
 ---
 
 ### 🏢 ERP Interno de Gestión Administrativa
-Módulos para gestión de contratos, salud ocupacional y documentación legal. Tablas de datos interactivas y avanzadas con consumo eficiente de APIs internas y modelado relacional SQL.
+Módulos para gestión de contratos, salud ocupacional y documentación legal. Tablas de datos interactivas con consumo eficiente de APIs internas y modelado relacional SQL.
 
 `Next.js` `PrimeReact` `SQL` `Tailwind CSS`
+
+---
+
+### 📄 [facturacion-backend](https://github.com/dherrera-software/facturacion-backend)
+Plataforma SaaS de facturación electrónica orientada a los estándares SUNAT (Perú). Arquitectura limpia en capas con autenticación JWT stateless, migraciones Flyway, mappers MapStruct y entornos Dockerizados.
+
+`Java 21` `Spring Boot 3` `Spring Security` `JWT` `PostgreSQL` `Docker` `Flyway` `OpenAPI`
+
+---
+
+### 🕹️ [pong-modern](https://github.com/dherrera-software/pong-modern)
+Juego Pong moderno con estética neon, multijugador local 1v1 y partidas cronometradas de 60 segundos, construido con MonoGame sobre .NET 8.
+
+`C#` `.NET 8` `MonoGame`
 
 ---
 
